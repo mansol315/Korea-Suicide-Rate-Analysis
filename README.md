@@ -65,7 +65,7 @@
 
 ## 🛠 기술 스택
 
-- **Language**: Python (Pandas, Numpy, Scipy, Statsmodels)
+- **Language**: Python (Pandas, Numpy, Statsmodels)
 
 - **Visualization**: Tableau, Matplotlib, Seaborn
 
